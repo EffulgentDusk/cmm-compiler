@@ -1,0 +1,40 @@
+struct Abdessamad {
+ int Anas;
+ int Anas3;
+};
+
+int Anas;
+int Anas2;
+int Anas3[23];
+
+struct Abdessamad2 {
+ int Anas;
+ int Anas2;
+ int Anas3[23];
+};
+
+int bonsoir[2];
+
+void hi2(int a, int b, int c){
+
+struct Abdessamad52 {
+ int Anas;
+ int Anas2;
+ int Anas3[23];
+};
+
+int tab[52],zara;
+
+struct Abdessamad52 m;
+
+m.Anas = 3 + m.Anas + zara + hi2();
+
+bonsoir[1]] = 4;
+
+zara = ooooo[1];
+
+}
+extern int lo6();
+void lot2() {}
+int lot() {}
+
